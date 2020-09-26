@@ -9,5 +9,4 @@ public class ConveniosUfpsApplication {
     public static void main(String[] args) {
         SpringApplication.run(ConveniosUfpsApplication.class, args);
     }
-
 }
